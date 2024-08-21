@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/form-using-reactjs/static/css/main.dbc12ca2.css",
+    "main.js": "/form-using-reactjs/static/js/main.eb594ef5.js",
+    "index.html": "/form-using-reactjs/index.html",
+    "main.dbc12ca2.css.map": "/form-using-reactjs/static/css/main.dbc12ca2.css.map",
+    "main.eb594ef5.js.map": "/form-using-reactjs/static/js/main.eb594ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbc12ca2.css",
+    "static/js/main.eb594ef5.js"
+  ]
+}
